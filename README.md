@@ -25,13 +25,14 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [Player tries multiple attempts to guess the correct secret number.] Describe the game's purpose.
+- [The given hint after each trial is in reverse.] Detail which bugs you found.
+- [I modified the logical code so that the hint is accurate for the estimate value in relation to the secret number.] Explain what fixes you applied.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [<img width="1144" height="1252" alt="Screenshot 2026-03-17 000215" src="https://github.com/user-attachments/assets/d96323da-a327-422b-8956-f920bb92b65f" />
+ ] [Insert a screenshot of your fixed, winning game here]
 
 ## 🚀 Stretch Features
 
